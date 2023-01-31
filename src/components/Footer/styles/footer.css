@@ -1,0 +1,13 @@
+.footerdiv{
+    background-color:#000000;
+    color: #fff;
+    text-align: center;
+    align-items: center;
+    
+}
+.footerdiv h1{
+    font-size: 30px;
+    color: #fff;
+    font-family: fantasy;
+    text-decoration: none;
+}
