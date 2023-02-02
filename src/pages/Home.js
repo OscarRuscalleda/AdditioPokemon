@@ -2,8 +2,7 @@ import React, {useEffect, useState} from "react"
 import { Container } from "@mui/material"
 import { Grid }from "@mui/material"
 import NavBar from "../components/NavBar"
-import PokeCard from "../components/PokeCard"
-import PokeStats from "../components/PokeStats"
+import PokeCard from "../components/PokeCard2"
 import axios from "axios"
 import { FooterContainer } from "../React Footer/Footer"
 
@@ -44,7 +43,6 @@ export const Home = () => {
             ))}
         </Grid> 
       </Container>
-      <PokeStats/>
       <FooterContainer/>
     </div>
   )
