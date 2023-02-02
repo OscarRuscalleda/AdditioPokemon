@@ -4,7 +4,6 @@ import CardMedia from '@mui/material/CardMedia';
 import Typography from '@mui/material/Typography';
 import { CardActionArea } from '@mui/material';
 import Box from '@mui/material/Box';
-import PokeStats from "../PokeStats";
 
 export default function PokeCard({id, name, image}) {
   return (
