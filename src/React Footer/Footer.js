@@ -9,9 +9,9 @@ export function FooterContainer() {
         <Footer>
             <Footer.Wrapper>
             <Footer.Row>
-                <Footer.Link href=""><img src="additio.png" height="50rem"/>  Additio</Footer.Link>
-                <Box component={"img"} src="pokeball.png" height="5rem" marginLeft="7rem" />
-                <Footer.Link href=""><img src="user.png" height="50rem"/>  Contact Us</Footer.Link>
+                <Footer.Link href=""><img src="/imatges/additio.png" height="50rem"/>  Additio</Footer.Link>
+                <Box component={"img"} src="/imatges/pokeball.png" height="5rem" marginLeft="7rem" />
+                <Footer.Link href=""><img src="/imatges/user.png" height="50rem"/>  Contact Us</Footer.Link>
             </Footer.Row>
             <Footer.Title href="#">__________________________________________________________________________________________________________</Footer.Title>
             </Footer.Wrapper>
